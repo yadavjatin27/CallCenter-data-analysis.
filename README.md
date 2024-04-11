@@ -45,18 +45,28 @@ Metrics: Calls with Satisfaction less than or equal to 3
 The analysis covers details such as:
 
 Agent Name
+
 Total Calls
+
 Calls Answered
+
 Average Speed of Answer
+
 Call Resolved
 
 
 # Usage
 Download or clone the repository.
+
 Open the Power BI file (.pbix) to explore the dashboards and visualizations.
+
 Use filters and slicers to interact with the data and gain insights.
+
 Refer to the README.md file for further instructions or documentation.
-Contributors
+
+# Contributors
+
 [yadavjatin27]
+
 Feel free to contribute to the project by suggesting improvements or adding new features.
 
